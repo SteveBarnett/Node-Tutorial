@@ -150,7 +150,7 @@ The central library of libraries is called [npm](http://npmjs.org). You can use 
 
 A few useful `npm` commands to look into are:
 
-  * `npm install <library name>`
-  * `npm install -g <library name>`
+  * `npm install <module_name>`
+  * `npm install -g <module_name>`
   * `npm init package.json`
-  * `npm install <library name> --save`
+  * `npm install <module_name> --save`
